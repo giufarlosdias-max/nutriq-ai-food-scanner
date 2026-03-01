@@ -1,0 +1,5 @@
+{
+  "name": "NutriQ - AI Food Scanner",
+  "description": "Scan your food to get instant nutritional facts and health benefits using Gemini AI.",
+  "requestFramePermissions": ["camera"]
+}
